@@ -6,4 +6,4 @@
 - HTML/ CSS / JS 
 - REACT JS
 
-![img](https://github.com/CostaDayana/12/blob/master/assets/Screenshot_3.png)
+![img](https://github.com/CostaDayana/Projeto_React_Cadastro_Alura/blob/main/assets/formulario%20cadastro.PNG?raw=true)
